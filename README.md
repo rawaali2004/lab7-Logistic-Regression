@@ -1,9 +1,9 @@
 # lab7-Logistic-Regression
-#Advertisement Click Prediction - Logistic Regression
-#Project Overview
+Advertisement Click Prediction - Logistic Regression
+Project Overview
 This project implements a Logistic Regression model to predict whether an internet user will click on an ad based on their demographic and usage data. 
 It follows the standard Machine Learning pipeline, including Exploratory Data Analysis (EDA), Data Preprocessing, and Model Evaluation.
-#Key Features
+Key Features
 • EDA: Visualized data distributions and correlations using Seaborn (Jointplots, Pairplots).
 • Data Preprocessing: Implemented StandardScaler to normalize features for better model convergence.
 • Modeling: Trained a Logistic Regression classifier using Scikit-Learn.
